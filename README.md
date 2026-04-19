@@ -26,3 +26,6 @@ The prototype enhancement should be integrated into the main project if it makes
 
 The most important feedback would come from decision makers such as coaches, performance staff, or front office leaders. Their feedback should focus on whether the enhancement improves clarity, fits naturally into workflow, and increases confidence in playing-time decisions. If the prototype adds value without making the tool more confusing, it should be adopted.
 main
+
+## Integration Decision
+The prototype enhancement was merged into the main project because it improves usability and makes the analytics output easier for decision makers to interpret. By simplifying the presentation of player readiness, the enhancement increases the likelihood that the tool will be used in real organizational decisions.
